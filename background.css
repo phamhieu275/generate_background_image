@@ -1,0 +1,51 @@
+.icon {
+						*margin-right: .3em;
+						background-image: url("background.png");
+						background-repeat : no-repeat;
+					}
+
+.icon-arrow-next {
+					background-position : 0px 0px;
+					width : 11px;
+					height: 28px;
+				}
+
+.icon-arrow-prev {
+					background-position : -21px 0px;
+					width : 11px;
+					height: 28px;
+				}
+
+.icon-arro-up-02 {
+					background-position : -42px 0px;
+					width : 61px;
+					height: 73px;
+				}
+
+.icon-icon-bar {
+					background-position : -113px 0px;
+					width : 6px;
+					height: 13px;
+				}.icon-arrow-next {
+					background-position : -129px 0px;
+					width : 11px;
+					height: 28px;
+				}
+
+.icon-arrow-prev {
+					background-position : -150px 0px;
+					width : 11px;
+					height: 28px;
+				}
+
+.icon-arro-up-02 {
+					background-position : -171px 0px;
+					width : 61px;
+					height: 73px;
+				}
+
+.icon-icon-bar {
+					background-position : -242px 0px;
+					width : 6px;
+					height: 13px;
+				}
